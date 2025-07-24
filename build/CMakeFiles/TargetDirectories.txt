@@ -1,9 +1,0 @@
-D:/card/build/CMakeFiles/TemplateCpp.dir
-D:/card/build/CMakeFiles/ALL_BUILD.dir
-D:/card/build/CMakeFiles/ZERO_CHECK.dir
-D:/card/build/engine/external/recast/CMakeFiles/recast.dir
-D:/card/build/engine/external/tinyxml2/CMakeFiles/tinyxml2.dir
-D:/card/build/engine/external/unzip/CMakeFiles/unzip.dir
-D:/card/build/engine/external/flatbuffers/CMakeFiles/flatbuffers.dir
-D:/card/build/engine/external/xxhash/CMakeFiles/xxhash.dir
-D:/card/build/engine/cocos/core/CMakeFiles/cocos2d.dir

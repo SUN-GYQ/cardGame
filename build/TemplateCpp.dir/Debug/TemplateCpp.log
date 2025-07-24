@@ -1,6 +1,0 @@
-﻿  Building Custom Rule D:/card/CMakeLists.txt
-  AppDelegate.cpp
-  HelloWorldScene.cpp
-  main.cpp
-D:\card\Classes\models\UndoModel.h(52,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 D:\card\Classes\HelloWorldScene.cpp)
-LINK : fatal error LNK1104: 无法打开文件“lib\Debug\cocos2d.lib”
