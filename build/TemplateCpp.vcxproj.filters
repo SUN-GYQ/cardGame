@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\card\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\card\Classes\HelloWorldScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\card\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\card\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\level_1.json">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\.DS_Store">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\card_general.png">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_black_10.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_black_2.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_black_3.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_black_4.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_black_5.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_black_6.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_black_7.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_black_8.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_black_9.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_black_A.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_black_J.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_black_K.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_black_Q.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_red_10.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_red_2.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_red_3.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_red_4.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_red_5.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_red_6.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_red_7.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_red_8.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_red_9.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_red_A.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_red_J.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_red_K.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\big_red_Q.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_black_10.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_black_2.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_black_3.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_black_4.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_black_5.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_black_6.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_black_7.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_black_8.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_black_9.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_black_A.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_black_J.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_black_K.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_black_Q.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_red_10.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_red_2.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_red_3.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_red_4.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_red_5.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_red_6.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_red_7.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_red_8.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_red_9.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_red_A.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_red_J.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_red_K.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\number\small_red_Q.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\suits\club.png">
+      <Filter>Resources\res\suits</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\suits\diamond.png">
+      <Filter>Resources\res\suits</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\suits\heart.png">
+      <Filter>Resources\res\suits</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Resources\res\suits\spade.png">
+      <Filter>Resources\res\suits</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\Classes\HelloWorldScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\card\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\card\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\card\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{8698BE81-5A5E-3F8E-A131-31BBF91C560A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{A7371319-F82B-3382-B7A8-4604A902EFEE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{3EC00685-9D8D-3001-AE6B-3A661180EB79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res\number">
+      <UniqueIdentifier>{0DA59899-1DF7-3A51-94F5-335A27BBA055}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res\suits">
+      <UniqueIdentifier>{0C84D407-DC1D-30B8-8733-748A0F1C7EEA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7BF8335D-AF95-3492-B306-F1C0E16FF021}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{A4735E5F-FFD3-3449-8311-F16758527B14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{777419FF-970D-3EAB-A2F3-5412A7F6D9DE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1146 @@
+﻿  Building Custom Rule D:/card/cocos2d/cocos/CMakeLists.txt
+  cocos2d.cpp
+  CCActionCamera.cpp
+  CCActionCatmullRom.cpp
+  CCAction.cpp
+  CCActionEase.cpp
+  CCActionGrid3D.cpp
+  CCActionGrid.cpp
+  CCActionInstant.cpp
+  CCActionInterval.cpp
+  CCActionManager.cpp
+  CCActionPageTurn3D.cpp
+  CCActionProgressTimer.cpp
+  CCActionTiledGrid.cpp
+  CCActionTween.cpp
+  CCAnimationCache.cpp
+  CCAnimation.cpp
+  CCAtlasNode.cpp
+  CCCamera.cpp
+  CCCameraBackgroundBrush.cpp
+  CCClippingNode.cpp
+  CCClippingRectangleNode.cpp
+  CCComponentContainer.cpp
+  CCComponent.cpp
+  CCDrawingPrimitives.cpp
+  CCDrawNode.cpp
+  CCFastTMXLayer.cpp
+  CCFastTMXTiledMap.cpp
+  CCFontAtlasCache.cpp
+  CCFontAtlas.cpp
+  CCFontCharMap.cpp
+  CCFont.cpp
+  CCFontFNT.cpp
+  CCFontFreeType.cpp
+  CCGLBufferedNode.cpp
+  CCGrabber.cpp
+  CCGrid.cpp
+  CCLabelAtlas.cpp
+  CCLabelBMFont.cpp
+  CCLabel.cpp
+  CCLabelTextFormatter.cpp
+D:\card\cocos2d\cocos\2d\CCFontAtlas.cpp(225,117): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  CCLabelTTF.cpp
+  CCLayer.cpp
+  CCLight.cpp
+  CCMenu.cpp
+  CCMenuItem.cpp
+  CCMotionStreak.cpp
+D:\card\cocos2d\cocos\2d\CCFontFNT.cpp(255,116): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  CCNode.cpp
+  CCNodeGrid.cpp
+  CCParallaxNode.cpp
+  CCParticleBatchNode.cpp
+  CCParticleExamples.cpp
+  CCParticleSystem.cpp
+  CCParticleSystemQuad.cpp
+  CCProgressTimer.cpp
+  CCProtectedNode.cpp
+  CCRenderTexture.cpp
+  CCScene.cpp
+  CCSpriteBatchNode.cpp
+  CCSprite.cpp
+  CCSpriteFrameCache.cpp
+  CCSpriteFrame.cpp
+  CCAutoPolygon.cpp
+  clipper.cpp
+  CCTextFieldTTF.cpp
+  CCTileMapAtlas.cpp
+  CCTMXLayer.cpp
+  CCTMXObjectGroup.cpp
+  CCTMXTiledMap.cpp
+  CCTMXXMLParser.cpp
+  CCTransition.cpp
+  CCTransitionPageTurn.cpp
+D:\card\cocos2d\cocos\2d\CCAutoPolygon.cpp(622,36): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=unsigned short
+          ]
+  CCTransitionProgress.cpp
+  CCTweenFunction.cpp
+  CCAABB.cpp
+  CCAnimate3D.cpp
+  CCAnimation3D.cpp
+  CCAttachNode.cpp
+  CCBillBoard.cpp
+  CCBundle3D.cpp
+  CCBundleReader.cpp
+  CCFrustum.cpp
+  CCMesh.cpp
+  CCMeshSkin.cpp
+  CCMeshVertexIndexData.cpp
+  CCMotionStreak3D.cpp
+  CCOBB.cpp
+  CCObjLoader.cpp
+  CCPlane.cpp
+  CCRay.cpp
+  CCSkeleton3D.cpp
+  CCSkybox.cpp
+  CCSprite3D.cpp
+  CCSprite3DMaterial.cpp
+  CCTerrain.cpp
+  CCStdC-win32.cpp
+  CCUtils-win32.cpp
+  CCFileUtils-win32.cpp
+  CCCommon-win32.cpp
+  CCApplication-win32.cpp
+  CCDevice-win32.cpp
+D:\card\cocos2d\cocos\3d\CCObjLoader.cpp(480,33): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\card\cocos2d\cocos\3d\CCObjLoader.cpp(480,33): message : 此参数用作缓冲区大小
+D:\card\cocos2d\cocos\3d\CCObjLoader.cpp(788,33): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\card\cocos2d\cocos\3d\CCObjLoader.cpp(788,33): message : 此参数用作缓冲区大小
+D:\card\cocos2d\cocos\3d\CCObjLoader.cpp(817,33): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\card\cocos2d\cocos\3d\CCObjLoader.cpp(817,33): message : 此参数用作缓冲区大小
+D:\card\cocos2d\cocos\3d\CCObjLoader.cpp(883,33): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\card\cocos2d\cocos\3d\CCObjLoader.cpp(883,33): message : 此参数用作缓冲区大小
+  inet_pton_mingw.cpp
+  CCGLViewImpl-desktop.cpp
+  CCSAXParser.cpp
+  CCThread.cpp
+  CCGLView.cpp
+  CCFileUtils.cpp
+D:\card\cocos2d\cocos\3d\CCTerrain.cpp(972,128): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“GLvoid *”
+D:\card\cocos2d\cocos\3d\CCTerrain.cpp(975,124): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“GLvoid *”
+D:\card\cocos2d\cocos\3d\CCTerrain.cpp(978,121): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“GLvoid *”
+  CCImage.cpp
+  edtaa3func.cpp
+  ConvertUTFWrapper.cpp
+  shapes.cc
+D:\card\cocos2d\cocos\platform\win32\CCDevice-win32.cpp(91,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\card\cocos2d\cocos\platform\win32\CCDevice-win32.cpp(120,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\card\cocos2d\cocos\platform\win32\CCDevice-win32.cpp(122,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\card\cocos2d\cocos\platform\win32\CCDevice-win32.cpp(326,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\card\cocos2d\cocos\platform\win32\CCApplication-win32.cpp(307,103): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\card\cocos2d\cocos\platform\win32\CCApplication-win32.cpp(370,58): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  advancing_front.cc
+  cdt.cc
+  sweep_context.cc
+D:\card\cocos2d\cocos\platform\CCSAXParser.cpp(169,35): warning C4101: “e”: 未引用的局部变量
+  sweep.cc
+  CCPhysicsBody.cpp
+D:\card\cocos2d\cocos\platform\win32\CCFileUtils-win32.cpp(53,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\card\cocos2d\cocos\platform\win32\CCFileUtils-win32.cpp(440,9): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  CCPhysicsContact.cpp
+  CCPhysicsJoint.cpp
+  CCPhysicsShape.cpp
+  CCPhysicsWorld.cpp
+  CCPhysics3D.cpp
+  CCPhysics3DComponent.cpp
+  CCPhysics3DConstraint.cpp
+  CCPhysics3DDebugDrawer.cpp
+  CCPhysics3DObject.cpp
+D:\card\cocos2d\cocos\platform\CCImage.cpp(448,38): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  CCPhysics3DShape.cpp
+  CCPhysics3DWorld.cpp
+  CCPhysicsSprite3D.cpp
+  CCAffineTransform.cpp
+  CCGeometry.cpp
+  CCVertex.cpp
+  Mat4.cpp
+  MathUtil.cpp
+  Quaternion.cpp
+  TransformUtils.cpp
+  Vec2.cpp
+  Vec3.cpp
+  Vec4.cpp
+  CCNavMesh.cpp
+  CCNavMeshAgent.cpp
+  CCNavMeshDebugDraw.cpp
+  CCNavMeshObstacle.cpp
+  CCNavMeshUtils.cpp
+  CCBatchCommand.cpp
+  CCCustomCommand.cpp
+  CCGLProgram.cpp
+  CCGLProgramCache.cpp
+  CCGLProgramState.cpp
+  CCGLProgramStateCache.cpp
+  CCGroupCommand.cpp
+D:\card\cocos2d\cocos\navmesh\CCNavMeshDebugDraw.cpp(100,48): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\card\cocos2d\cocos\navmesh\CCNavMeshDebugDraw.cpp(107,46): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+  CCMaterial.cpp
+  CCMeshCommand.cpp
+  CCPass.cpp
+  CCPrimitive.cpp
+  CCPrimitiveCommand.cpp
+  CCQuadCommand.cpp
+  CCRenderCommand.cpp
+  CCRenderState.cpp
+  CCRenderer.cpp
+  CCTechnique.cpp
+  CCTexture2D.cpp
+  CCTextureAtlas.cpp
+  CCTextureCache.cpp
+  CCTextureCube.cpp
+  CCTrianglesCommand.cpp
+  CCVertexAttribBinding.cpp
+  CCVertexIndexBuffer.cpp
+  CCVertexIndexData.cpp
+  ccGLStateCache.cpp
+D:\card\cocos2d\cocos\renderer\CCVertexIndexData.cpp(145,74): warning C4312: “类型强制转换”: 从“long”转换到更大的“GLvoid *”
+  ccShaders.cpp
+  CCFrameBuffer.cpp
+  CCVRDistortion.cpp
+  CCVRDistortionMesh.cpp
+  CCVRGenericRenderer.cpp
+  CCVRGenericHeadTracker.cpp
+  CCAsyncTaskPool.cpp
+  CCAutoreleasePool.cpp
+D:\card\cocos2d\cocos\renderer\CCVertexAttribBinding.cpp(140,47): warning C4312: “类型强制转换”: 从“long”转换到更大的“GLvoid *”
+  CCConfiguration.cpp
+  CCConsole.cpp
+  CCController.cpp
+  CCData.cpp
+  CCDataVisitor.cpp
+  CCNinePatchImageParser.cpp
+  CCDirector.cpp
+D:\card\cocos2d\cocos\base\CCDirector.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CCEvent.cpp
+  CCEventAcceleration.cpp
+  CCEventController.cpp
+  CCEventCustom.cpp
+  CCEventDispatcher.cpp
+  CCEventFocus.cpp
+  CCEventKeyboard.cpp
+  CCEventListener.cpp
+  CCEventListenerAcceleration.cpp
+  CCEventListenerController.cpp
+  CCEventListenerCustom.cpp
+  CCEventListenerFocus.cpp
+  CCEventListenerKeyboard.cpp
+  CCEventListenerMouse.cpp
+D:\card\cocos2d\cocos\base\CCConsole.cpp(282,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\card\cocos2d\cocos\base\CCConsole.cpp(304,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\card\cocos2d\cocos\base\CCConsole.cpp(573,12): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  CCEventListenerTouch.cpp
+  CCEventMouse.cpp
+  CCEventTouch.cpp
+  CCIMEDispatcher.cpp
+  CCNS.cpp
+  CCProfiling.cpp
+  CCProperties.cpp
+  CCRef.cpp
+  CCScheduler.cpp
+  CCScriptSupport.cpp
+  CCTouch.cpp
+  CCUserDefault.cpp
+  CCValue.cpp
+  ObjectFactory.cpp
+  CCStencilStateManager.cpp
+  TGAlib.cpp
+  ZipUtils.cpp
+  CCAllocatorDiagnostics.cpp
+  CCAllocatorGlobal.cpp
+  CCAllocatorGlobalNewDelete.cpp
+  atitc.cpp
+  base64.cpp
+  ccCArray.cpp
+  ccRandom.cpp
+  ccTypes.cpp
+  ccUTF8.cpp
+  ccUtils.cpp
+  etc1.cpp
+  pvr.cpp
+  s3tc.cpp
+  AudioEngine.cpp
+  SimpleAudioEngine.cpp
+  MciPlayer.cpp
+  AudioEngine-win32.cpp
+D:\card\cocos2d\cocos\base\ZipUtils.cpp(449,86): warning C4267: “参数”: 从“size_t”转换到“uLong”，可能丢失数据
+  AudioCache.cpp
+  AudioPlayer.cpp
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(65,37): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\mutex(30): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(65,45): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(65,45): error C2143: 语法错误: 缺少“,”(在“<”的前面) (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(67,37): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\mutex(30): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(67,45): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(67,45): error C2143: 语法错误: 缺少“,”(在“<”的前面) (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,23): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\mutex(30): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,31): error C2065: “function”: 未声明的标识符 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,10): error C2974: 'std::vector' : 模板 对于 '_Ty'是无效参数，应为类型 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(430): message : 参见“std::vector”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,10): error C2976: “std::vector”: 模板 参数太少 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(430): message : 参见“std::vector”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,40): error C2059: 语法错误:“>” (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,56): error C2238: 意外的标记位于“;”之前 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,23): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\mutex(30): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,31): error C2065: “function”: 未声明的标识符 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,37): error C2144: 语法错误:“bool”的前面应有“)” (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,37): error C2062: 意外的类型“bool”  (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,42): error C2947: 应由“>”终止 模板参数列表，却找到“>” (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,44): error C2059: 语法错误:“>” (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,60): error C2238: 意外的标记位于“;”之前 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioPlayer.h(71,10): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\condition_variable(30): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioPlayer.h(71,18): error C2143: 语法错误: 缺少“;”(在“<”的前面) (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioPlayer.h(71,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioPlayer.h(71,66): error C2238: 意外的标记位于“;”之前 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioEngine-win32.h(62,52): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\condition_variable(30): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioEngine-win32.h(62,60): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioEngine-win32.h(62,60): error C2143: 语法错误: 缺少“,”(在“<”的前面) (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioEngine-win32.h(66,59): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\condition_variable(30): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioEngine-win32.h(66,67): error C2061: 语法错误: 标识符“function” (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(65,37): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(24): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(65,45): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(65,45): error C2143: 语法错误: 缺少“,”(在“<”的前面) (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(67,37): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(24): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(67,45): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(67,45): error C2143: 语法错误: 缺少“,”(在“<”的前面) (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,23): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(24): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,31): error C2065: “function”: 未声明的标识符 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,10): error C2974: 'std::vector' : 模板 对于 '_Ty'是无效参数，应为类型 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(430): message : 参见“std::vector”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,10): error C2976: “std::vector”: 模板 参数太少 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(430): message : 参见“std::vector”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,40): error C2059: 语法错误:“>” (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,56): error C2238: 意外的标记位于“;”之前 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,23): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(24): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,31): error C2065: “function”: 未声明的标识符 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,37): error C2144: 语法错误:“bool”的前面应有“)” (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,37): error C2062: 意外的类型“bool”  (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,42): error C2947: 应由“>”终止 模板参数列表，却找到“>” (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,44): error C2059: 语法错误:“>” (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,60): error C2238: 意外的标记位于“;”之前 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp)
+  AudioDecoder.cpp
+  AudioDecoderManager.cpp
+  AudioDecoderMp3.cpp
+D:\card\cocos2d\cocos\audio/win32/AudioPlayer.h(71,10): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\condition_variable(30): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioPlayer.h(71,18): error C2143: 语法错误: 缺少“;”(在“<”的前面) (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioPlayer.h(71,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioPlayer.h(71,66): error C2238: 意外的标记位于“;”之前 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(65,37): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(24): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(65,45): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(65,45): error C2143: 语法错误: 缺少“,”(在“<”的前面) (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(67,37): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(24): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(67,45): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(67,45): error C2143: 语法错误: 缺少“,”(在“<”的前面) (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,23): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(24): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,31): error C2065: “function”: 未声明的标识符 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,10): error C2974: 'std::vector' : 模板 对于 '_Ty'是无效参数，应为类型 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(430): message : 参见“std::vector”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,10): error C2976: “std::vector”: 模板 参数太少 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(430): message : 参见“std::vector”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,40): error C2059: 语法错误:“>” (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(98,56): error C2238: 意外的标记位于“;”之前 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,23): error C2039: "function": 不是 "std" 的成员 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(24): message : 参见“std”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,31): error C2065: “function”: 未声明的标识符 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,37): error C2144: 语法错误:“bool”的前面应有“)” (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,37): error C2062: 意外的类型“bool”  (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,42): error C2947: 应由“>”终止 模板参数列表，却找到“>” (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,44): error C2059: 语法错误:“>” (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(101,60): error C2238: 意外的标记位于“;”之前 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp)
+  AudioDecoderOgg.cpp
+  UIEditBoxImpl-win32.cpp
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(298,1): error C2511: “void cocos2d::experimental::AudioCache::addPlayCallback(const std::function<void (void)> &)”:“cocos2d::experimental::AudioCache”中没有找到重载的成员函数
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(50): message : 参见“cocos2d::experimental::AudioCache”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(299,36): error C2597: 对非静态成员“cocos2d::experimental::AudioCache::_playCallbackMutex”的非法引用
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(97): message : 参见“cocos2d::experimental::AudioCache::_playCallbackMutex”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(300,13): error C2597: 对非静态成员“cocos2d::experimental::AudioCache::_state”的非法引用
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(105): message : 参见“cocos2d::experimental::AudioCache::_state”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(301,5): error C2450: 类型为“unknown”的 switch 表达式无效
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(300,13): message : 要求整型表达式
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(304,13): error C2065: “_playCallbacks”: 未声明的标识符
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(315,13): error C2597: 对非静态成员“cocos2d::experimental::AudioCache::_state”的非法引用
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(105): message : 参见“cocos2d::experimental::AudioCache::_state”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(324,22): error C2065: “_playCallbacks”: 未声明的标识符
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(324,22): error C2672: “begin”: 未找到匹配的重载函数
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(325,5): error C2893: 未能使函数模板“unknown-type std::begin(_Container &)”专用化
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1844): message : 参见“std::begin”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(325,5): message : 用下列模板参数:
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(325,5): message : “_Container=unknown-type”
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(325,5): error C2784: “const _Elem *std::begin(std::initializer_list<_Elem>) noexcept”: 未能从“unknown-type”为“std::initializer_list<_Elem>”推导 模板 参数
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\initializer_list(55): message : 参见“std::begin”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(324,22): error C2672: “end”: 未找到匹配的重载函数
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(325,5): error C2893: 未能使函数模板“unknown-type std::end(_Container &)”专用化
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1854): message : 参见“std::end”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(325,5): message : 用下列模板参数:
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(325,5): message : “_Container=unknown-type”
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(325,5): error C2784: “const _Elem *std::end(std::initializer_list<_Elem>) noexcept”: 未能从“unknown-type”为“std::initializer_list<_Elem>”推导 模板 参数
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\initializer_list(60): message : 参见“std::end”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(325,5): error C3536: “<begin>$L0”: 初始化之前无法使用
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(325,5): error C3536: “<end>$L0”: 初始化之前无法使用
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(324,36): error C2100: 非法的间接寻址
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(326,9): error C2064: 项不会计算为接受 0 个参数的函数
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(329,5): error C2065: “_playCallbacks”: 未声明的标识符
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(333,1): error C2511: “void cocos2d::experimental::AudioCache::addLoadCallback(const std::function<void (bool)> &)”:“cocos2d::experimental::AudioCache”中没有找到重载的成员函数
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(50): message : 参见“cocos2d::experimental::AudioCache”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(334,13): error C2597: 对非静态成员“cocos2d::experimental::AudioCache::_state”的非法引用
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(105): message : 参见“cocos2d::experimental::AudioCache::_state”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(335,5): error C2450: 类型为“unknown”的 switch 表达式无效
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(334,13): message : 要求整型表达式
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(338,13): error C2065: “_loadCallbacks”: 未声明的标识符
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(349,13): error C2597: 对非静态成员“cocos2d::experimental::AudioCache::_state”的非法引用
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(105): message : 参见“cocos2d::experimental::AudioCache::_state”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,26): error C2065: “_loadCallbacks”: 未声明的标识符
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,26): error C2672: “begin”: 未找到匹配的重载函数
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,1): error C2893: 未能使函数模板“unknown-type std::begin(_Container &)”专用化
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1844): message : 参见“std::begin”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,1): message : 用下列模板参数:
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,1): message : “_Container=unknown-type”
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,1): error C2784: “const _Elem *std::begin(std::initializer_list<_Elem>) noexcept”: 未能从“unknown-type”为“std::initializer_list<_Elem>”推导 模板 参数
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\initializer_list(55): message : 参见“std::begin”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,26): error C2672: “end”: 未找到匹配的重载函数
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,1): error C2893: 未能使函数模板“unknown-type std::end(_Container &)”专用化
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1854): message : 参见“std::end”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,1): message : 用下列模板参数:
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,1): message : “_Container=unknown-type”
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,1): error C2784: “const _Elem *std::end(std::initializer_list<_Elem>) noexcept”: 未能从“unknown-type”为“std::initializer_list<_Elem>”推导 模板 参数
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\initializer_list(60): message : 参见“std::end”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,1): error C3536: “<begin>$L0”: 初始化之前无法使用
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,1): error C3536: “<end>$L0”: 初始化之前无法使用
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(371,40): error C2100: 非法的间接寻址
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(373,13): error C2064: 项不会计算为接受 1 个参数的函数
+D:\card\cocos2d\cocos\audio\win32\AudioCache.cpp(376,9): error C2065: “_loadCallbacks”: 未声明的标识符
+  CocosGUI.cpp
+D:\card\cocos2d\cocos\audio\win32\MciPlayer.cpp(114,61): warning C4312: “类型强制转换”: 从“MCIDEVICEID”转换到更大的“LPCTSTR”
+D:\card\cocos2d\cocos\audio\win32\SimpleAudioEngine.cpp(288,35): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(79,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(179,1): error C2511: “cocos2d::experimental::AudioCache *cocos2d::experimental::AudioEngineImpl::preload(const std::string &,std::function<void (bool)>)”:“cocos2d::experimental::AudioEngineImpl”中没有找到重载的成员函数
+D:\card\cocos2d\cocos\audio/include/AudioEngine.h(79): message : 参见“cocos2d::experimental::AudioEngineImpl”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(183,8): error C3536: “it”: 初始化之前无法使用
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(184,44): error C2677: 二进制“[”: 没有找到接受“const std::string”类型的全局运算符(或没有可接受的转换)
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(204,45): error C2664: “void cocos2d::experimental::AudioCache::addLoadCallback(const int)”: 无法将参数 1 从“std::function<void (bool)>”转换为“const int”
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(204,37): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+D:\card\cocos2d\cocos\audio/win32/AudioCache.h(67,10): message : 参见“cocos2d::experimental::AudioCache::addLoadCallback”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(238,48): error C2660: “cocos2d::experimental::AudioEngineImpl::preload”: 函数不接受 2 个参数
+D:\card\cocos2d\cocos\audio/win32/AudioEngine-win32.h(66,17): message : 参见“cocos2d::experimental::AudioEngineImpl::preload”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(239,8): error C3536: “audioCache”: 初始化之前无法使用
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(239,30): error C2446: “==”: 没有从“nullptr”到“int”的转换
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(239,23): message : 本机 nullptr 只能转换为 bool 或使用 reinterpret_cast 转换为整型
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(244,32): error C2664: “void cocos2d::experimental::AudioPlayer::setCache(cocos2d::experimental::AudioCache *)”: 无法将参数 1 从“int”转换为“cocos2d::experimental::AudioCache *”
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(244,22): message : 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\card\cocos2d\cocos\audio/win32/AudioPlayer.h(63,10): message : 参见“cocos2d::experimental::AudioPlayer::setCache”的声明 (编译源文件 D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp)
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(451,1): error C2511: “void cocos2d::experimental::AudioEngineImpl::setFinishCallback(int,const std::function<void (int,const std::string &)> &)”:“cocos2d::experimental::AudioEngineImpl”中没有找到重载的成员函数
+D:\card\cocos2d\cocos\audio/include/AudioEngine.h(79): message : 参见“cocos2d::experimental::AudioEngineImpl”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(452,26): error C2597: 对非静态成员“cocos2d::experimental::AudioEngineImpl::_audioPlayers”的非法引用
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(452,26): error C3867: “cocos2d::experimental::AudioEngineImpl::_audioPlayers”: 非标准语法；请使用 "&" 来创建指向成员的指针
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(452,26): error C2109: 下标要求数组或指针类型
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(482,25): error C2039: "_finishCallbak": 不是 "cocos2d::experimental::AudioPlayer" 的成员
+D:\card\cocos2d\cocos\audio/win32/AudioPlayer.h(49): message : 参见“cocos2d::experimental::AudioPlayer”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(493,25): error C2039: "_finishCallbak": 不是 "cocos2d::experimental::AudioPlayer" 的成员
+D:\card\cocos2d\cocos\audio/win32/AudioPlayer.h(49): message : 参见“cocos2d::experimental::AudioPlayer”的声明
+D:\card\cocos2d\cocos\audio\win32\AudioEngine-win32.cpp(494,25): error C2039: "_finishCallbak": 不是 "cocos2d::experimental::AudioPlayer" 的成员
+D:\card\cocos2d\cocos\audio/win32/AudioPlayer.h(49): message : 参见“cocos2d::experimental::AudioPlayer”的声明
+  UIButton.cpp
+  UIAbstractCheckButton.cpp
+D:\card\cocos2d\cocos\audio\win32\AudioPlayer.cpp(53,3): error C2614: “cocos2d::experimental::AudioPlayer”: 非法的成员初始化:“_finishCallbak”不是基或成员
+  UICheckBox.cpp
+  UIRadioButton.cpp
+  UIDeprecated.cpp
+  UIHBox.cpp
+  UIHelper.cpp
+  UIImageView.cpp
+D:\card\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-win32.cpp(64,70): error C2065: “GWL_WNDPROC”: 未声明的标识符
+D:\card\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-win32.cpp(100,42): error C2065: “GWL_WNDPROC”: 未声明的标识符
+D:\card\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-win32.cpp(123,40): warning C4312: “类型强制转换”: 从“int”转换到更大的“HMENU”
+D:\card\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-win32.cpp(127,42): error C2065: “GWL_USERDATA”: 未声明的标识符
+D:\card\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-win32.cpp(128,66): error C2065: “GWL_WNDPROC”: 未声明的标识符
+D:\card\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-win32.cpp(245,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UILayout.cpp
+  UILayoutManager.cpp
+  UILayoutParameter.cpp
+  UIListView.cpp
+  UILoadingBar.cpp
+  UIPageView.cpp
+  UIPageViewIndicator.cpp
+  UIRelativeBox.cpp
+  UIRichText.cpp
+  UIScale9Sprite.cpp
+  UIScrollView.cpp
+  UIScrollViewBar.cpp
+  UISlider.cpp
+  UIText.cpp
+  UITextAtlas.cpp
+  UITextBMFont.cpp
+  UITextField.cpp
+  UIVBox.cpp
+  UIWidget.cpp
+  UIEditBox.cpp
+  UILayoutComponent.cpp
+  UIEditBoxImpl-common.cpp
+  UITabControl.cpp
+  CCArray.cpp
+  CCDeprecated.cpp
+  CCDictionary.cpp
+  CCNotificationCenter.cpp
+  CCSet.cpp
+  CCString.cpp
+  HttpClient.cpp
+  SocketIO.cpp
+  WebSocket.cpp
+  CCDownloader.cpp
+  CCDownloader-curl.cpp
+  Uri.cpp
+  CCBAnimationManager.cpp
+D:\card\cocos2d\cocos\deprecated\CCDictionary.cpp(173,5): warning C4267: “+=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\card\cocos2d\cocos\deprecated\CCDictionary.cpp(230,5): warning C4267: “+=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\card\cocos2d\cocos\deprecated\CCDictionary.cpp(282,5): warning C4267: “+=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\card\cocos2d\cocos\deprecated\CCDictionary.cpp(303,5): warning C4267: “+=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  CCBFileLoader.cpp
+  CCBKeyframe.cpp
+  CCBReader.cpp
+  CCBSequence.cpp
+D:\card\cocos2d\cocos\network\WebSocket.cpp(88,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  CCBSequenceProperty.cpp
+  CCControlButtonLoader.cpp
+  CCControlLoader.cpp
+  CCLabelBMFontLoader.cpp
+  CCLabelTTFLoader.cpp
+  CCLayerColorLoader.cpp
+  CCLayerGradientLoader.cpp
+  CCLayerLoader.cpp
+  CCMenuItemImageLoader.cpp
+  CCMenuItemLoader.cpp
+  CCNode+CCBRelativePositioning.cpp
+  CCNodeLoader.cpp
+  CCNodeLoaderLibrary.cpp
+  CCParticleSystemQuadLoader.cpp
+  CCScale9SpriteLoader.cpp
+  CCScrollViewLoader.cpp
+  CCSpriteLoader.cpp
+  CCActionFrame.cpp
+  CCActionFrameEasing.cpp
+  CCActionManagerEx.cpp
+  CCActionNode.cpp
+  CCActionObject.cpp
+  CCArmature.cpp
+  CCArmatureAnimation.cpp
+  CCArmatureDataManager.cpp
+  CCArmatureDefine.cpp
+  CCBatchNode.cpp
+  CCBone.cpp
+  CCColliderDetector.cpp
+  CCComAttribute.cpp
+  CCComAudio.cpp
+  CCComController.cpp
+  CCComRender.cpp
+D:\card\cocos2d\cocos\editor-support\cocostudio\CCArmature.cpp(614,53): warning C4267: “初始化”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  CCDataReaderHelper.cpp
+  CCDatas.cpp
+  CCDecorativeDisplay.cpp
+  CCDisplayFactory.cpp
+D:\card\cocos2d\cocos\editor-support\cocostudio\CCColliderDetector.cpp(196,55): warning C4267: “初始化”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\card\cocos2d\cocos\editor-support\cocostudio\CCColliderDetector.cpp(364,59): warning C4267: “初始化”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  CCDisplayManager.cpp
+  CCInputDelegate.cpp
+  CCProcessBase.cpp
+  CCSGUIReader.cpp
+  CCSSceneReader.cpp
+  CCSkin.cpp
+  CCSpriteFrameCacheHelper.cpp
+  CCTransformHelp.cpp
+  CCTween.cpp
+D:\card\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(870,38): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  CCUtilMath.cpp
+  CocoLoader.cpp
+  DictionaryHelper.cpp
+  LocalizationManager.cpp
+  TriggerBase.cpp
+  TriggerMng.cpp
+  TriggerObj.cpp
+  FlatBuffersSerialize.cpp
+  CCComExtensionData.cpp
+  CocoStudio.cpp
+  WidgetCallBackHandlerProtocol.cpp
+  NodeReader.cpp
+  SingleNodeReader.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SingleNodeReader\SingleNodeReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SingleNodeReader\SingleNodeReader.cpp)
+  SpriteReader.cpp
+  ParticleReader.cpp
+  GameMapReader.cpp
+  ProjectNodeReader.cpp
+  ComAudioReader.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ProjectNodeReader\ProjectNodeReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ProjectNodeReader\ProjectNodeReader.cpp)
+  WidgetReader.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp)
+  LoadingBarReader.cpp
+  ListViewReader.cpp
+  TextFieldReader.cpp
+  CheckBoxReader.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SpriteReader\SpriteReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SpriteReader\SpriteReader.cpp)
+  SliderReader.cpp
+  PageViewReader.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ParticleReader\ParticleReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ParticleReader\ParticleReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ComAudioReader\ComAudioReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ComAudioReader\ComAudioReader.cpp)
+  TextReader.cpp
+  Node3DReader.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\GameMapReader\GameMapReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\GameMapReader\GameMapReader.cpp)
+  UserCameraReader.cpp
+  Particle3DReader.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LoadingBarReader\LoadingBarReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LoadingBarReader\LoadingBarReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp)
+  Sprite3DReader.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextFieldReader\TextFieldReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextFieldReader\TextFieldReader.cpp)
+  BoneNodeReader.cpp
+  SkeletonNodeReader.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\CheckBoxReader\CheckBoxReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\CheckBoxReader\CheckBoxReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SkeletonReader\BoneNodeReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SkeletonReader\BoneNodeReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SliderReader\SliderReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SliderReader\SliderReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp)
+  TextAtlasReader.cpp
+  LayoutReader.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SkeletonReader\SkeletonNodeReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SkeletonReader\SkeletonNodeReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\UserCameraReader\UserCameraReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\UserCameraReader\UserCameraReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp)
+  TextBMFontReader.cpp
+  ImageViewReader.cpp
+  ButtonReader.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Particle3DReader\Particle3DReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Particle3DReader\Particle3DReader.cpp)
+  ScrollViewReader.cpp
+  GameNode3DReader.cpp
+  Light3DReader.cpp
+  CCActionTimelineCache.cpp
+  CCActionTimeline.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Sprite3DReader\Sprite3DReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Sprite3DReader\Sprite3DReader.cpp)
+  CCActionTimelineNode.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextAtlasReader\TextAtlasReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextAtlasReader\TextAtlasReader.cpp)
+  CCFrame.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextBMFontReader\TextBMFontReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextBMFontReader\TextBMFontReader.cpp)
+  CCTimeLine.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ImageViewReader\ImageViewReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ImageViewReader\ImageViewReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Light3DReader\Light3DReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Light3DReader\Light3DReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp)
+  CSLoader.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\GameNode3DReader\GameNode3DReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\GameNode3DReader\GameNode3DReader.cpp)
+  CCBoneNode.cpp
+  CCSkeletonNode.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCActionTimelineCache.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCActionTimelineCache.cpp)
+  CCSkinNode.cpp
+  ArmatureNodeReader.cpp
+  TabControlReader.cpp
+  AttachmentVertices.cpp
+  Cocos2dAttachmentLoader.cpp
+  SkeletonAnimation.cpp
+  SkeletonBatch.cpp
+  SkeletonRenderer.cpp
+  SkeletonTwoColorBatch.cpp
+  spine-cocos2dx.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ArmatureNodeReader\ArmatureNodeReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ArmatureNodeReader\ArmatureNodeReader.cpp)
+  AssetsManager.cpp
+  AssetsManagerEx.cpp
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TabControlReader\TabControlReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TabControlReader\TabControlReader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CSLoader.cpp)
+D:\card\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 D:\card\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CSLoader.cpp)
+  CCEventAssetsManagerEx.cpp
+  CCEventListenerAssetsManagerEx.cpp
+D:\card\cocos2d\cocos\editor-support\spine\SkeletonBatch.cpp(110,42): warning C4018: “<”: 有符号/无符号不匹配
+D:\card\cocos2d\extensions\assets-manager\AssetsManagerEx.cpp(1180,46): warning C4305: “+=”: 从“double”到“float”截断
+  Manifest.cpp
+D:\card\cocos2d\cocos\editor-support\spine\SkeletonTwoColorBatch.cpp(237,42): warning C4018: “<”: 有符号/无符号不匹配
+D:\card\cocos2d\cocos\editor-support\spine\SkeletonTwoColorBatch.cpp(274,37): warning C4018: “<”: 有符号/无符号不匹配
+  CCControl.cpp
+  CCControlButton.cpp
+  CCControlColourPicker.cpp
+  CCControlHuePicker.cpp
+  CCControlPotentiometer.cpp
+  CCControlSaturationBrightnessPicker.cpp
+  CCControlSlider.cpp
+  CCControlStepper.cpp
+  CCControlSwitch.cpp
+  CCControlUtils.cpp
+  CCInvocation.cpp
+  CCScrollView.cpp
+  CCTableView.cpp
+  CCTableViewCell.cpp
+  CCPhysicsDebugNode.cpp
+  CCPhysicsSprite.cpp
+  CCParticle3DAffector.cpp
+  CCParticle3DEmitter.cpp
+  CCParticle3DRender.cpp
+  CCParticleSystem3D.cpp
+  CCPUDynamicAttribute.cpp
+  CCPUDynamicAttributeTranslator.cpp
+  CCPUForceField.cpp
+  CCPUMaterialManager.cpp
+  CCPUMaterialTranslator.cpp
+  CCPUNoise.cpp
+  CCPUPlane.cpp
+  CCPURendererTranslator.cpp
+  CCPUScriptCompiler.cpp
+  CCPUScriptLexer.cpp
+  CCPUScriptParser.cpp
+  CCPUScriptTranslator.cpp
+  CCPUSimpleSpline.cpp
+  CCPUSphere.cpp
+  CCPUTechniqueTranslator.cpp
+  CCPUTranslateManager.cpp
+  CCPUUtil.cpp
+  CCPUParticleSystem3D.cpp
+  CCPUParticleSystem3DTranslator.cpp
+  CCPUListener.cpp
+  CCPUAffector.cpp
+  CCPUAffectorManager.cpp
+  CCPUAffectorTranslator.cpp
+  CCPUAlignAffector.cpp
+  CCPUAlignAffectorTranslator.cpp
+  CCPUBaseCollider.cpp
+  CCPUBaseColliderTranslator.cpp
+  CCPUBaseForceAffector.cpp
+  CCPUBaseForceAffectorTranslator.cpp
+  CCPUBoxCollider.cpp
+  CCPUBoxColliderTranslator.cpp
+  CCPUCollisionAvoidanceAffector.cpp
+D:\card\cocos2d\extensions\Particle3D\PU\CCPUParticleSystem3D.cpp(1390,51): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\card\cocos2d\extensions\Particle3D\PU\CCPUParticleSystem3D.cpp(1394,57): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\card\cocos2d\extensions\Particle3D\PU\CCPUParticleSystem3D.cpp(1403,46): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  CCPUCollisionAvoidanceAffectorTranslator.cpp
+  CCPUColorAffector.cpp
+  CCPUColorAffectorTranslator.cpp
+  CCPUFlockCenteringAffector.cpp
+  CCPUFlockCenteringAffectorTranslator.cpp
+  CCPUForceFieldAffector.cpp
+  CCPUForceFieldAffectorTranslator.cpp
+  CCPUGeometryRotator.cpp
+  CCPUGeometryRotatorTranslator.cpp
+  CCPUGravityAffector.cpp
+  CCPUGravityAffectorTranslator.cpp
+  CCPUInterParticleCollider.cpp
+  CCPUInterParticleColliderTranslator.cpp
+  CCPUJetAffector.cpp
+  CCPUJetAffectorTranslator.cpp
+  CCPULineAffector.cpp
+  CCPULineAffectorTranslator.cpp
+  CCPULinearForceAffector.cpp
+  CCPULinearForceAffectorTranslator.cpp
+  CCPUParticleFollower.cpp
+  CCPUParticleFollowerTranslator.cpp
+  CCPUPathFollower.cpp
+  CCPUPathFollowerTranslator.cpp
+  CCPUPlaneCollider.cpp
+  CCPUPlaneColliderTranslator.cpp
+  CCPURandomiser.cpp
+  CCPURandomiserTranslator.cpp
+  CCPUScaleAffector.cpp
+  CCPUScaleAffectorTranslator.cpp
+  CCPUScaleVelocityAffector.cpp
+  CCPUScaleVelocityAffectorTranslator.cpp
+  CCPUSineForceAffector.cpp
+  CCPUSineForceAffectorTranslator.cpp
+  CCPUSphereCollider.cpp
+  CCPUSphereColliderTranslator.cpp
+  CCPUTextureAnimator.cpp
+  CCPUTextureAnimatorTranslator.cpp
+  CCPUTextureRotator.cpp
+  CCPUTextureRotatorTranslator.cpp
+  CCPUVelocityMatchingAffector.cpp
+  CCPUVelocityMatchingAffectorTranslator.cpp
+  CCPUVortexAffector.cpp
+  CCPUVortexAffectorTranslator.cpp
+  CCPUBoxEmitter.cpp
+  CCPUBoxEmitterTranslator.cpp
+  CCPUCircleEmitter.cpp
+  CCPUCircleEmitterTranslator.cpp
+  CCPUEmitter.cpp
+  CCPUEmitterManager.cpp
+  CCPUEmitterTranslator.cpp
+  CCPULineEmitter.cpp
+  CCPULineEmitterTranslator.cpp
+  CCPUMeshSurfaceEmitter.cpp
+  CCPUMeshSurfaceEmitterTranslator.cpp
+  CCPUPointEmitter.cpp
+  CCPUPointEmitterTranslator.cpp
+  CCPUPositionEmitter.cpp
+  CCPUPositionEmitterTranslator.cpp
+  CCPUSlaveEmitter.cpp
+  CCPUSlaveEmitterTranslator.cpp
+  CCPUSphereSurfaceEmitter.cpp
+  CCPUSphereSurfaceEmitterTranslator.cpp
+  CCPUVertexEmitter.cpp
+  CCPURender.cpp
+  CCPUBeamRender.cpp
+  CCPUBillboardChain.cpp
+  CCPURibbonTrail.cpp
+  CCPURibbonTrailRender.cpp
+  CCPUDoAffectorEventHandler.cpp
+  CCPUDoAffectorEventHandlerTranslator.cpp
+  CCPUDoEnableComponentEventHandler.cpp
+  CCPUDoEnableComponentEventHandlerTranslator.cpp
+  CCPUDoExpireEventHandler.cpp
+  CCPUDoExpireEventHandlerTranslator.cpp
+  CCPUDoFreezeEventHandler.cpp
+  CCPUDoFreezeEventHandlerTranslator.cpp
+  CCPUDoPlacementParticleEventHandler.cpp
+  CCPUDoPlacementParticleEventHandlerTranslator.cpp
+  CCPUDoScaleEventHandler.cpp
+  CCPUDoScaleEventHandlerTranslator.cpp
+  CCPUDoStopSystemEventHandler.cpp
+  CCPUDoStopSystemEventHandlerTranslator.cpp
+  CCPUEventHandler.cpp
+  CCPUEventHandlerManager.cpp
+  CCPUEventHandlerTranslator.cpp
+  CCPUObserver.cpp
+  CCPUObserverManager.cpp
+  CCPUObserverTranslator.cpp
+  CCPUOnClearObserver.cpp
+  CCPUOnClearObserverTranslator.cpp
+  CCPUOnCollisionObserver.cpp
+  CCPUOnCollisionObserverTranslator.cpp
+  CCPUOnCountObserver.cpp
+  CCPUOnCountObserverTranslator.cpp
+  CCPUOnEmissionObserver.cpp
+  CCPUOnEmissionObserverTranslator.cpp
+  CCPUOnEventFlagObserver.cpp
+  CCPUOnEventFlagObserverTranslator.cpp
+  CCPUOnExpireObserver.cpp
+  CCPUOnExpireObserverTranslator.cpp
+  CCPUOnPositionObserver.cpp
+  CCPUOnPositionObserverTranslator.cpp
+  CCPUOnQuotaObserver.cpp
+  CCPUOnQuotaObserverTranslator.cpp
+  CCPUOnRandomObserver.cpp
+  CCPUOnRandomObserverTranslator.cpp
+  CCPUOnTimeObserver.cpp
+  CCPUOnTimeObserverTranslator.cpp
+  CCPUOnVelocityObserver.cpp
+  CCPUOnVelocityObserverTranslator.cpp
+  CCPUBehaviour.cpp
+  CCPUBehaviourManager.cpp
+  CCPUBehaviourTranslator.cpp
+  CCPUSlaveBehaviour.cpp
+  CCPUSlaveBehaviourTranslator.cpp
+  LocalStorage.cpp

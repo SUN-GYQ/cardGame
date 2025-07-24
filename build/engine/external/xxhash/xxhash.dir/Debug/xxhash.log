@@ -1,0 +1,3 @@
+﻿  Building Custom Rule D:/card/cocos2d/external/xxhash/CMakeLists.txt
+  xxhash.c
+  xxhash.vcxproj -> D:\card\build\lib\Debug\xxhash.lib
